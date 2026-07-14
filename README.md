@@ -1,4 +1,4 @@
-# Computer Network Architecture and Design
+# Computer Network Architecture and Design Project
 
 ## About
 Architecting and Configuring a multi-room College Campus network using Cisco Packet Tracer, based on custom requirements. <br>
